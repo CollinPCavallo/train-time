@@ -1,3 +1,50 @@
 .input-group{
-    width: 100%
+    width: 100%;
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+}
+.col-lg-8{
+    padding: 0;
+}
+.row{
+    padding: 0;
+    width: 90%
+}
+.jumbotron{
+    border-radius: 100px;
+    color:black;
+    background-color: lightblue
+}
+
+h1{
+    color:white;
+    background-color:#eee;
+    text-align: center;
+    border-radius: 200px;
+}
+h2{
+    font-weight: 700;
+    
+}
+label{
+    padding: 0px 10px 0px 10px;
+}
+
+.panel-default>.panel-heading {
+    background-color: lightblue
+}
+th{
+    font-weight: 700;
+}
+.panel, .panel-headind{
+    border: 2px solid #eee;
+    background-color: #eee;
+}
+#submit-button{
+    margin: 10px;
+    background-color: lightblue;
+    font-weight:700;
+    border: 2px solid #eee;
+
+
 }
